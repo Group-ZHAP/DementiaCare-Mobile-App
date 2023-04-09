@@ -6,7 +6,7 @@ import { Ionicons } from '@expo/vector-icons';
 // Import your screen components here
 import Screen1 from './Comp/Camera';
 import Screen2 from './Comp/Video';
-import Screen3 from './Comp/Location';
+import Screen3 from './Comp/Remender';
 import Screen4 from './Comp/Sos';
 import Screen5 from './Comp/Game';
 import Screen6 from './Comp/Home';
